@@ -1,0 +1,11 @@
+Package: KAMONEY2012
+Type: Package
+Title: Political Fund Expenditure Data Released
+Version: 0.1.0
+Author: OhmyNews
+Maintainer: The package maintainer <ljh@ohmynews.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Encoding: UTF-8
+LazyData: true
